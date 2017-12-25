@@ -1,0 +1,11 @@
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\bin\Any CPU\Release\netcoreapp2.0\CarCheckingService.deps.json
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\bin\Any CPU\Release\netcoreapp2.0\CarCheckingService.runtimeconfig.json
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\bin\Any CPU\Release\netcoreapp2.0\CarCheckingService.runtimeconfig.dev.json
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\bin\Any CPU\Release\netcoreapp2.0\CarCheckingService.dll
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\bin\Any CPU\Release\netcoreapp2.0\CarCheckingService.pdb
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\obj\Any CPU\Release\netcoreapp2.0\CarCheckingService.csprojResolveAssemblyReference.cache
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\obj\Any CPU\Release\netcoreapp2.0\CarCheckingService.csproj.CoreCompileInputs.cache
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\obj\Any CPU\Release\netcoreapp2.0\CarCheckingService.AssemblyInfoInputs.cache
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\obj\Any CPU\Release\netcoreapp2.0\CarCheckingService.AssemblyInfo.cs
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\obj\Any CPU\Release\netcoreapp2.0\CarCheckingService.dll
+C:\IU7\RSOI\CarCheckSystem\CarCheckingService\CarCheckingService\CarCheckingService\obj\Any CPU\Release\netcoreapp2.0\CarCheckingService.pdb
